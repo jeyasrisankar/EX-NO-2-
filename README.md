@@ -85,6 +85,8 @@ int main()
 
 
 
-Output:
+## Output:
 <img width="1848" height="732" alt="image" src="https://github.com/user-attachments/assets/7632cf76-3f59-4abf-a592-e0fe9738f4fa" />
 
+## RESULT:
+The implementation of  Playfair Substitution technique using c program is successful.
